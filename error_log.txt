@@ -1,0 +1,3 @@
+
+Error Type: ZeroDivisionError | Message: Division by zero is not allowed
+Error Type: ValueError | Message: Invalid numeric input (could not convert string to float: 'sathish')
